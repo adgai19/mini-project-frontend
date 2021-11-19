@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mini-project-frontend/static/css/main.bf5d4e02.chunk.css",
+    "main.js": "/mini-project-frontend/static/js/main.22c69215.chunk.js",
+    "main.js.map": "/mini-project-frontend/static/js/main.22c69215.chunk.js.map",
+    "runtime-main.js": "/mini-project-frontend/static/js/runtime-main.252e9e46.js",
+    "runtime-main.js.map": "/mini-project-frontend/static/js/runtime-main.252e9e46.js.map",
+    "static/css/2.383c0125.chunk.css": "/mini-project-frontend/static/css/2.383c0125.chunk.css",
+    "static/js/2.8daedc4f.chunk.js": "/mini-project-frontend/static/js/2.8daedc4f.chunk.js",
+    "static/js/2.8daedc4f.chunk.js.map": "/mini-project-frontend/static/js/2.8daedc4f.chunk.js.map",
+    "index.html": "/mini-project-frontend/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/mini-project-frontend/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.bf5d4e02.chunk.css.map": "/mini-project-frontend/static/css/main.bf5d4e02.chunk.css.map",
+    "static/js/2.8daedc4f.chunk.js.LICENSE.txt": "/mini-project-frontend/static/js/2.8daedc4f.chunk.js.LICENSE.txt",
+    "static/media/chatbotStyle.css": "/mini-project-frontend/static/media/send-icon.70e7f71b.png",
+    "static/media/coronavirus.8ad205b8.png": "/mini-project-frontend/static/media/coronavirus.8ad205b8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.252e9e46.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.8daedc4f.chunk.js",
+    "static/css/main.bf5d4e02.chunk.css",
+    "static/js/main.22c69215.chunk.js"
+  ]
+}
